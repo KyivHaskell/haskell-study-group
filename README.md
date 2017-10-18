@@ -1,5 +1,9 @@
 # Група з вивчення мови Хаскель
 
+Велика подяка нашим спонсорам! Завдяки ним маємо сплату оренди та подальший розвиток івентів від Kievfprog. Gold sponsor: [Grammarly](https://grammarly.com). Silver sponsor: [Intetics](https://intetics.com/).
+
+![sponsors](https://github.com/KyivHaskell/haskell-study-group/raw/master/sponsors.png "Sponsors")
+
 ## Принципи
 
 Ми працюватимемо за книгою [_Haskell Programming from First Principles_](http://haskellbook.com/) (aka the "Haskell Book") авторства Крістофера Алена та Джулі Моронукі. Єдиними передумовами для участі є ця книга, комп’ютер, знання англійської (на рівні читання простої мови зі словником), та ви. Вільний розум також був би в нагоді. Жодного попереднього досвіду з Хаскелем, функційним програмуванням, або програмуванням в цілому не потрібно.
