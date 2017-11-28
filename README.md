@@ -98,7 +98,7 @@
 - Chapters 11 and 12
 
 **Week 8. Midpoint review. Testing with QuickCheck.**
-- Review chapters 2-12
+- Review chapters 11-12
 - Read and complete Chapter 13 on your own
 - Chapter 14
 
