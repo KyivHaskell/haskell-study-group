@@ -123,6 +123,25 @@
 - Read Chapter 19 on your own
 - General review and look ahead
 
+**Week 14. Foldable. (We decided to move on)**
+- Chapter 20
+
+**Week 15. Traversable**
+- Chapter 21
+
+**Week 16. Reader, State**
+- Chapter 22
+- Chapter 23
+
+**Week 17. Parser combinators**
+- Chapter 24
+
+**Week 18. Composing types**
+- Chapter 25
+
+**Week 19. Monad transformers**
+- Chapter 26
+
 Дні зустрічей, час, та місце проведення може змінюватись в залежності від доступності місця.
 
 Для деталей щодо конкретної зустрічі, дивіться [сторінку на Meetup](https://www.meetup.com/Kyiv-Haskell-Learning-Group/).
