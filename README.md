@@ -134,10 +134,10 @@
 - Chapter 23
 
 **Week 17. Parser combinators, part 1**
-- Chapter 24
+- Chapter 24. Up until "24.8 Character and token parsers"
 
 **Week 18. Parser combinators, part 2**
-- Chapter 24
+- Chapter 24. "24.8 Character and token parsers" and further
 
 **Week 19. Composing types**
 - Chapter 25
