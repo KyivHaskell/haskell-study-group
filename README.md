@@ -133,13 +133,16 @@
 - Chapter 22
 - Chapter 23
 
-**Week 17. Parser combinators**
+**Week 17. Parser combinators, part 1**
 - Chapter 24
 
-**Week 18. Composing types**
+**Week 18. Parser combinators, part 2**
+- Chapter 24
+
+**Week 19. Composing types**
 - Chapter 25
 
-**Week 19. Monad transformers**
+**Week 20. Monad transformers**
 - Chapter 26
 
 Дні зустрічей, час, та місце проведення може змінюватись в залежності від доступності місця.
