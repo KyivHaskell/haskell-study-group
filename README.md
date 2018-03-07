@@ -138,9 +138,11 @@
 
 **Week 18. Parser combinators, part 2**
 - Chapter 24. "24.8 Character and token parsers" and further
+- Only do exercises 1-5
 
 **Week 19. Composing types**
 - Chapter 25
+- Do exercise 5 from previous chapter peer to peer
 
 **Week 20. Monad transformers**
 - Chapter 26
