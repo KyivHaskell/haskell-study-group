@@ -1,15 +1,6 @@
 # Група з вивчення мови Хаскель
 
-Велика подяка нашим спонсорам! Завдяки ним маємо сплату оренди та подальший розвиток івентів від KyivLambda.
-
-Golden sponsors: 
-- [Grammarly](https://grammarly.com)
-- [IOHK](https://iohk.io/en/)
-
-Silver sponsors:
-- [Attendify](https://attendify.com)
-- [Preply](https://preply.com/ua/)
-- [Takeoff](https://www.takeoff.com)
+Велика подяка нашим спонсорам! Завдяки ним маємо сплату оренди та подальший розвиток івентів від KyivLambda. Golden sponsors: [Grammarly](https://grammarly.com), [IOHK](https://iohk.io/en/). Silver sponsors: [Attendify](https://attendify.com), [Preply](https://preply.com/ua/), [Takeoff](https://www.takeoff.com).
 
 ![sponsors](https://github.com/kyivlambda/haskell-study-group/raw/master/images/sponsors.png "Sponsors")
 
