@@ -1,5 +1,18 @@
 # Група з вивчення мови Хаскель
 
+Велика подяка нашим спонсорам! Завдяки ним маємо сплату оренди та подальший розвиток івентів від KyivLambda.
+
+Golden sponsors: 
+- [Grammarly](https://grammarly.com)
+- [IOHK](https://iohk.io/en/)
+
+Silver sponsors:
+- [Attendify](https://attendify.com)
+- [Preply](https://preply.com/ua/)
+- [Takeoff](https://www.takeoff.com)
+
+![sponsors](https://github.com/KyivHaskell/haskell-study-group/raw/master/images/sponsors.png "Sponsors")
+
 Хаскель – потужна, статично-типізована, чиста, функційна мова
 програмування, що збирає навколо себе як комерційних користувачів з
 індустрії, так і науковців-інформатиків.
