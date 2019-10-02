@@ -11,7 +11,7 @@ Silver sponsors:
 - [Preply](https://preply.com/ua/)
 - [Takeoff](https://www.takeoff.com)
 
-![sponsors](https://github.com/KyivHaskell/haskell-study-group/raw/master/images/sponsors.png "Sponsors")
+![sponsors](https://github.com/kyivlambda/haskell-study-group/raw/master/images/sponsors.png "Sponsors")
 
 Хаскель – потужна, статично-типізована, чиста, функційна мова
 програмування, що збирає навколо себе як комерційних користувачів з
