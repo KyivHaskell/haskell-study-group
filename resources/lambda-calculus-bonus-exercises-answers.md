@@ -48,10 +48,11 @@ _Borrowed from [CSE340](https://www.youtube.com/watch?v=KoIdCHDbpMI) at Arizona 
 `λy. λx. y`
 
 4. `(λx. λy. xy)(λz. (λc. y) z)`  
-`λy. ((λz. (λc. y) z)(y))`  
-`λy1. ((λz. (λc. y) z)(y))`  
-`λy1. ((λc. y)(y))`  
-`λy1. y`
+`(λx. λw. xw)(λz. (λc. y) z)`  
+`λw. ((λz. (λc. y) z)w)`  
+`λw. ((λz. (λc. y) z)w)`  
+`λw. ((λc. y)w)`  
+`λw. y`
 
 5. `(λx. λy. x y)(λz. (λc. c y) z)`  
 `(λy1. (λz. (λc. c y) z)(y1))`  
