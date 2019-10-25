@@ -75,6 +75,8 @@
 
 ### Розклад
 
+Chapters mentioned are meant to be read by the week's meeting with exercises done.
+
 **Week 1. Introduction. Lambda calculus.**
 - Haskell Book, Chapter 1
 
@@ -82,47 +84,37 @@
 - Chapters 2 and 3
 
 **Week 3. Basic datatypes.**
-- Review chapters 2 and 3
 - Chapters 4 and 5
 
 **Week 4. Types and Typeclasses.**
-- Review chapters 4 and 5
 - Chapter 6
 
 **Week 5. Functional patterns. Working with recursion.**
-- Review chapter 6
 - Chapters 7 and 8
 
 **Week 6. Lists and folding lists.**
-- Review chapters 7 and 8
 - Chapters 9 and 10
 
 **Week 7. Algebraic datatypes.**
-- Review chapters 9 and 10
 - Chapters 11 and 12
 
 **Week 8. Peer-to-peer review. Projects and Modules.**
 - Post solutions to the phone exercise from chapter 11, review at least 2 of your peers.
-- Review chapters 11 and 12
 - Chapter 13
 
 **Week 9. Midpoint review. Testing with QuickCheck.**
-- Review chapters 2-12
 - Chapter 14
 
 **Week 10. Monoid and Semigroup.**
 - Chapter 15
 
 **Week 11. Functor.**
-- Review Chapter 15
 - Chapter 16
 
 **Week 12. Applicative.**
-- Review chapter 16
 - Chapter 17
 
 **Week 13. Monad. How to apply structure to your code. Conclusion.**
-- Review chapter 17
 - Chapter 18
 - Read Chapter 19 on your own
 - General review and look ahead
