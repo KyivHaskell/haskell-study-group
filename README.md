@@ -99,51 +99,54 @@ Chapters mentioned are meant to be read by the week's meeting with exercises don
 - Chapters 10
 
 **Week 8. Algebraic datatypes.**
-- Chapters 11 and 12
+- Chapters 11
 
-**Week 9. Peer-to-peer review. Projects and Modules.**
+**Week 9. Algebraic datatypes (pt 2).**
+- Chapters 12
+
+**Week 10. Peer-to-peer review. Projects and Modules.**
 - Post solutions to the phone exercise from chapter 11, review at least 2 of your peers.
 - Chapter 13
 
-**Week 10. Midpoint review. Testing with QuickCheck.**
+**Week 11. Midpoint review. Testing with QuickCheck.**
 - Chapter 14
 
-**Week 11. Monoid and Semigroup.**
+**Week 12. Monoid and Semigroup.**
 - Chapter 15
 
-**Week 12. Functor.**
+**Week 13. Functor.**
 - Chapter 16
 
-**Week 13. Applicative.**
+**Week 14. Applicative.**
 - Chapter 17
 
-**Week 14. Monad. How to apply structure to your code. Conclusion.**
+**Week 15. Monad. How to apply structure to your code. Conclusion.**
 - Chapter 18
 - Read Chapter 19 on your own
 - General review and look ahead
 
-**Week 15. Foldable. (We decided to move on)**
+**Week 16. Foldable. (We decided to move on)**
 - Chapter 20
 
-**Week 16. Traversable**
+**Week 17. Traversable**
 - Chapter 21
 
-**Week 17. Reader, State**
+**Week 18. Reader, State**
 - Chapter 22
 - Chapter 23
 
-**Week 18. Parser combinators, part 1**
+**Week 19. Parser combinators, part 1**
 - Chapter 24. Up until "24.8 Character and token parsers"
 
-**Week 19. Parser combinators, part 2**
+**Week 20. Parser combinators, part 2**
 - Chapter 24. "24.8 Character and token parsers" and further
 - Only do exercises 1-5
 
-**Week 20. Composing types**
+**Week 21. Composing types**
 - Chapter 25
 - Do exercise 5 from previous chapter peer to peer
 
-**Week 21. Monad transformers**
+**Week 22. Monad transformers**
 - Chapter 26
 
 Дні зустрічей, час, та місце проведення може змінюватись в залежності від доступності місця.
