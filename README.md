@@ -125,28 +125,25 @@ Chapters mentioned are meant to be read by the week's meeting with exercises don
 - Read Chapter 19 on your own
 - General review and look ahead
 
-**Week 16. Foldable. (We decided to move on)**
-- Chapter 20
+**Week 16. Foldable, Traversable**
+- Chapter 20, 21
 
-**Week 17. Traversable**
-- Chapter 21
-
-**Week 18. Reader, State**
+**Week 17. Reader, State**
 - Chapter 22
 - Chapter 23
 
-**Week 19. Parser combinators, part 1**
+**Week 18. Parser combinators, part 1**
 - Chapter 24. Up until "24.8 Character and token parsers"
 
-**Week 20. Parser combinators, part 2**
+**Week 19. Parser combinators, part 2**
 - Chapter 24. "24.8 Character and token parsers" and further
 - Only do exercises 1-5
 
-**Week 21. Composing types**
+**Week 20. Composing types**
 - Chapter 25
 - Do exercise 5 from previous chapter peer to peer
 
-**Week 22. Monad transformers**
+**Week 21. Monad transformers**
 - Chapter 26
 
 Дні зустрічей, час, та місце проведення може змінюватись в залежності від доступності місця.
